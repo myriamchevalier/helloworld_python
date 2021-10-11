@@ -26,9 +26,10 @@
 
 # print(f'The perimeter is {(2 * width) + (2 * height)} and the area is {width * height}.')
 
-value = 'hi'
+# value = 'hi'
 
-print(f'.{value:<25}.')
-print(f'.{value:>25}.')
-print(f'.{value:^25}.')
-print(f'.{value:-^25}.')
+# print(f'.{value:<25}.')
+# print(f'.{value:>25}.')
+# print(f'.{value:^25}.')
+# print(f'.{value:-^25}.')
+
